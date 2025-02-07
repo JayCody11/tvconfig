@@ -4,7 +4,7 @@
         {
             "name": "1",
             "type": 0,
-            "url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3uhttps://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+	    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
@@ -12,7 +12,7 @@
         {
             "name": "2",
             "type": 0,
-            "url": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3uhttps://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+	    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
             "playerType": 1,
 	    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
@@ -20,7 +20,7 @@
         {
             "name": "3",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+            "url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3uhttps://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
             "playerType": 1,
 	    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
@@ -28,7 +28,7 @@
         {
             "name": "4",
             "type": 0,
-            "url": "hhttps://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+            "url": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3uhttps://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
