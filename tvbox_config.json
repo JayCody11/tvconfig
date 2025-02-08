@@ -2,33 +2,33 @@
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
     "lives": [
         {
-            "name": "1",
+            "name": "ownm3u",
             "type": 0,
-            "url":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "url": "https://gitee.com/JayCody/tv-api2/raw/gd/output/result.m3u",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
         {
-            "name": "2",
+            "name": "owntxt",
             "type": 0,
-            "url": "https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+            "url": "https://gitee.com/JayCody/tv-api2/raw/gd/output/result.txt",
             "playerType": 1,
-	    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+	        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
         {
-            "name": "3",
+            "name": "govinm3u",
             "type": 0,
-	    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+            "url":"https://gitee.com/JayCody/tv-api/raw/gd/output/result.m3u",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+	        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
         {
-            "name": "4",
+            "name": "govintxt",
             "type": 0,
-	    "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
+            "url": "https://gitee.com/JayCody/tv-api/raw/gd/output/result.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png"
